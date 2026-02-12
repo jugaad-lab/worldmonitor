@@ -140,7 +140,7 @@ export default defineConfig({
     },
   },
   server: {
-    port: 3000,
+    port: 5176,
     open: true,
     proxy: {
       // Yahoo Finance API
@@ -553,6 +553,16 @@ export default defineConfig({
         configure: (proxy) => {
           proxy.on('error', (err) => {
             console.log('ADS-B Exchange proxy error:', err.message);
+          });
+        },
+      },
+      // Local API server for Vercel Edge Functions (catch-all for non-proxied routes)
+      '/api': {
+        target: 'http://localhost:5175',
+        changeOrigin: true,
+        configure: (proxy) => {
+          proxy.on('error', (err) => {
+            console.log('Local API server proxy error:', err.message);
           });
         },
       },
