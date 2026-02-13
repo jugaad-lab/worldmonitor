@@ -4,11 +4,13 @@
 
 **Real-time global intelligence dashboard** — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
 
-[![GitHub stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social)](https://github.com/koala73/worldmonitor/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/koala73/worldmonitor?style=social)](https://github.com/koala73/worldmonitor/network/members)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/jugaad-lab/worldmonitor?style=social)](https://github.com/jugaad-lab/worldmonitor/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/jugaad-lab/worldmonitor?style=social)](https://github.com/jugaad-lab/worldmonitor/network/members)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Last commit](https://img.shields.io/github/last-commit/koala73/worldmonitor)](https://github.com/koala73/worldmonitor/commits/main)
+[![Last commit](https://img.shields.io/github/last-commit/jugaad-lab/worldmonitor)](https://github.com/jugaad-lab/worldmonitor/commits/main)
+
+> 📌 **If you find this useful, please ⭐ star this repo!** It helps other developers discover real-time intelligence tools.
 
 <p align="center">
   <a href="https://worldmonitor.app"><strong>Live Demo</strong></a> &nbsp;·&nbsp;
@@ -566,6 +568,21 @@ npm run typecheck    # TypeScript type checking
 - [ ] Self-hosted Docker image
 
 See [full roadmap](./docs/DOCUMENTATION.md#roadmap).
+
+---
+## More from Jugaad Lab 🔧
+| Tool | What it does |
+|------|-------------|
+| [claude-code-mastery](https://github.com/jugaad-lab/claude-code-mastery) | Master Claude Code with subagents & automation |
+| [tokenmeter](https://github.com/jugaad-lab/tokenmeter) | Track AI token usage & costs locally |
+| [clawguard](https://github.com/jugaad-lab/clawguard) | Security blacklist for AI agents |
+| [clawdscan](https://github.com/jugaad-lab/clawdscan) | Session health analyzer for OpenClaw |
+| [skilldoc](https://github.com/jugaad-lab/skilldoc) | Skill health checker for OpenClaw |
+| [tribe-protocol](https://github.com/jugaad-lab/tribe-protocol) | Trust & access control for AI bots |
+| [discord-voice-plugin](https://github.com/jugaad-lab/discord-voice-plugin) | Voice conversations with AI in Discord |
+| [worldmonitor](https://github.com/jugaad-lab/worldmonitor) | Real-time global intelligence dashboard |
+
+⭐ **Found these useful? Star the repos you like!**
 
 ---
 
