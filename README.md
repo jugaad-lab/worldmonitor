@@ -1,5 +1,7 @@
 # World Monitor
 
+> ⭐ **Found this useful? [Star this repo](https://github.com/jugaad-lab/worldmonitor)** to help others discover it!
+
 **Real-time global intelligence dashboard** — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
 
 [![GitHub stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social)](https://github.com/koala73/worldmonitor/stargazers)
@@ -577,6 +579,12 @@ If you find World Monitor useful:
 - **Report issues** to help improve the platform
 
 ---
+
+## 🤝 Contributing
+
+Found a bug? Have an idea? [Open an issue](https://github.com/jugaad-lab/worldmonitor/issues) or submit a PR!
+
+If this tool saved you time, please ⭐ **star this repo** — it helps others find it.
 
 ## License
 
